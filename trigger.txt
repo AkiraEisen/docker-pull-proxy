@@ -1,1 +1,1 @@
-confluentinc/ksqldb-server:0.29.0 registry.cn-beijing.aliyuncs.com/ijx-public/ksqldb-server:0.29.0
+confluentinc/ksqldb-server:0.29.0 registry.registry.cn-hangzhou.aliyuncs.com/tgkwrobot/ksqldb-server:0.29.0
